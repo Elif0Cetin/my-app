@@ -5,18 +5,12 @@ export default function Home() {
         
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            Welcome to my home pagee
+            Team
           </h1>
-          <p className="font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">in this part, you can see everything about the page briefly.
-          </p>
-          
          
         </div>
-    
       
       </main>
     </div>
   );
 }
-
-
